@@ -48,4 +48,4 @@ Temporary Items
 *.bin
 
 # Ignore save folder
-*Saved/
+Saved/
